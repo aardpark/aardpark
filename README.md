@@ -10,8 +10,9 @@ contact at parkcandrew(at)gmail
 
 currently working on 
 ---
-tamachi.io - agentic AI context - turn your codebase into primitives that your agent could understand - be more efficient with your context.
-inscript - pip install inscript - track what claude code did - the prompts that led you there - tool calls - and snapshots of what your codebase looked like at any given time. 
+tamachi.io - turn your codebase into primitives that your agent can understand while being more efficient with your context.
+
+inscript - track what claude code did, the prompts that led you there, tool calls made, and snapshots of what your codebase looked like at any given time. 
 
 
 <!--
