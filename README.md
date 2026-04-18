@@ -8,6 +8,9 @@ I work on fun theoretical problems and fun practical problems in CS
 
 contact at parkcandrew(at)gmail
 
+Check out my 3 bit quants, they're pretty good!
+https://huggingface.co/aaardpark
+
 currently working on 
 ---
 tamachi.io - turn your codebase into primitives that your agent can understand while being more efficient with your context.
