@@ -8,7 +8,7 @@ I work on fun theoretical problems and fun practical problems in CS
 
 contact at parkcandrew(at)gmail
 
-Check out my 3 bit quants, they're pretty good!
+Check out my 3 bit quants, they're pretty neat
 https://huggingface.co/aaardpark
 
 currently working on 
